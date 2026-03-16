@@ -1,5 +1,3 @@
-
-
 import java.util.HashMap;
 import java.util.Map;
 
@@ -108,3 +106,5 @@ public class BOOKMYSTAY {
         System.out.println("=== End of Program ===");
     }
 }
+
+
